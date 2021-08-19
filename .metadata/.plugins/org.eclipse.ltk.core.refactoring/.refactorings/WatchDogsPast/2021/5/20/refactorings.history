@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;WatchDogs/src/main/webapp/main.jsp&apos; to &apos;home.jsp&apos;" description="Rename resource &apos;main.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/main.jsp" name="home.jsp" stamp="1620977213894" updateReferences="true"/>
+</session>

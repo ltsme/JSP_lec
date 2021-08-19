@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+/Users/yhj/Documents/Workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+397190312.index
+3193827987.index
+1381806978.index
+3706099552.index
+3677016887.index
+1561156761.index
+3579276893.index
+4149531326.index
+3960104726.index

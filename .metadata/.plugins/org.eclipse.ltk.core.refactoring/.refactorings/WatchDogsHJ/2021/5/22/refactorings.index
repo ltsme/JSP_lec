@@ -1,0 +1,48 @@
+1622020215874	Rename package 'com.jsplec.bbs.command'
+1622020244501	Delete elements
+1622020249188	Delete element
+1622020252864	Delete element
+1622020256102	Delete element
+1622020295992	Rename package 'com.jsplec.bbs.homecontroller'
+1622020315238	Rename package 'com.jsplec.bbs.dto'
+1622020397742	Rename package 'com.jsplec.bbs.dao'
+1622020566365	Delete elements
+1622020573247	Move 43 resources to 'webapp'
+1622020590279	Move 'web.xml' to 'lib'
+1622020596979	Move 'MANIFEST.MF' to 'META-INF'
+1622020620778	Move 'images' to 'webapp'
+1622020637314	Move 'inc' to 'webapp'
+1622021706036	Move 'admin.jsp' to 'AdminPage'
+1622021719809	Move 2 resources to 'AdminPage'
+1622021859326	Delete element
+1622021862282	Delete element
+1622021868086	Delete elements
+1622021908612	Move 'trainerList.jsp' to 'MainPage'
+1622022071749	Delete element
+1622022113244	Move 7 resources to 'login'
+1622022271910	Move 12 resources to 'main'
+1622022280255	Delete element
+1622022292383	Move 7 resources to 'main'
+1622022302686	Delete element
+1622022315666	Move 'trainerList.jsp' to 'main'
+1622022320667	Delete element
+1622022323347	Move 'trainerpage.jsp' to 'main'
+1622022326444	Move 'userpage.jsp' to 'main'
+1622022331087	Delete element
+1622022334963	Delete element
+1622022345366	Move 28 resources to 'src'
+1622022403770	Move 22 resources to 'webapp'
+1622022410886	Move 28 resources to 'webapp'
+1622026421436	Delete element
+1622026503442	Delete elements
+1622026819177	Delete elements
+1622027033181	Delete elements
+1622043185636	Delete element
+1622049470580	Delete element
+1622050183684	Delete element
+1622051254078	Rename resource 'lookuppop.jsp'
+1622084466908	Rename resource '스크린샷 2021-05-27 오전 11.59.14.png'
+1622091755175	Rename resource 'icons8-dog-heart-64.png'
+1622092605964	Rename resource 'icons8-u-turn-64.png'
+1622093025320	Rename resource 'icons8-phone-64.png'
+1622093033000	Rename resource 'icons8-email-open-50.png'

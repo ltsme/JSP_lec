@@ -1,0 +1,52 @@
+1621161416897	Rename package 'com.jsplec.bbs.command_HJ'
+1621212923101	Rename package 'com.watchdogs.command.lookupid'
+1621212935720	Rename package 'com.watchdogs.command.lookupId'
+1621213770168	Rename resource 'list.jsp'
+1621227027740	Copy file
+1621227413613	Rename type 'Daologin'
+1621228733566	Copy file
+1621228793218	Delete element
+1621232061197	Copy compilation unit
+1621232076139	Delete element
+1621232088268	Copy compilation unit
+1621232104194	Rename type 'BloginCommand'
+1621232125465	Rename type 'BlogincheckCommand'
+1621232390913	Delete element
+1621232418482	Move compilation unit
+1621232428025	Move compilation unit
+1621232442983	Delete element
+1621232556035	Rename package 'com.jsplec.bbs.command'
+1621233144024	Rename type 'DaoLogin'
+1621233381956	Rename type 'BDto'
+1621233389790	Rename type 'BDao'
+1621233986318	Copy compilation unit
+1621234163870	Rename type 'DaoLoginCheck'
+1621234213010	Delete element
+1621234490695	Copy compilation unit
+1621234663584	Rename type 'BLoginCheckDao'
+1621242347681	Copy file
+1621476232202	Delete element
+1621476261548	Rename resource 'second.jsp'
+1621476727842	Copy compilation unit
+1621477744490	Rename resource 'list.jsp'
+1621483732799	Rename resource 'signup.css'
+1621504137146	Rename package 'com.jsplec.bbs.homecontroller'
+1621504459780	Delete element
+1621504776913	Delete element
+1621504792254	Rename resource 'signup.jsp'
+1621506531666	Copy file
+1621506596534	Copy file
+1621506605912	Copy file
+1621506996742	Delete element
+1621507012129	Rename resource 'style2.css'
+1621512044909	Delete element
+1621512052262	Rename resource 'signup.jsp'
+1621513110897	Rename resource '스크린샷 2021-05-12 오후 5.35.15.png'
+1621513286105	Delete element
+1621513583961	Move 'Icon.png' to 'webapp'
+1621513598374	Rename resource 'Icon.png'
+1621561605436	Delete element
+1621563130943	Move 'icon.png' to 'Source'
+1621563150089	Rename resource 'Source'
+1621563185116	Rename resource 'icon.png'
+1621565199726	Copy file
